@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Karthik</h1>
-<h3 align="center">🚀 AI Engineer | Founder & CEO @ Intellio AI | Full Stack Developer from India</h3>
+<h3 align="center">🚀 Data Engineer | Full Stack Developer | Cloud Engineer</h3>
 
 ## 🧠 About Me
 
 - 🔭 Currently building **AI-powered learning & analytics platforms**
-- 🚀 Founder & CEO of **Intellio AI**
 - 🤖 Working on: RAG Systems, AI Dashboards, Deepfake Detection
 - ☁️ Deploying AI APIs using AWS (SAM, S3, Glue, Athena, DynamoDB)
-- 📊 Building intelligent YouTube Analytics systems
 - 🧪 Exploring Generative AI, LLMs & Multimodal AI
 - 💬 Ask me about: `AI Systems`, `FastAPI`, `AWS`, `React`, `Streamlit`, `LLMs`
 - ⚡ Fun fact: I turn ideas into AI products
@@ -17,7 +15,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank">
+  <a href="https://linkedin.com/in/KarthikRommula" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
