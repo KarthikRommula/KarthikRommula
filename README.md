@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karthik</h1>
-<h3 align="center">🚀 Data Engineer | Full Stack Developer | Cloud Engineer</h3>
+<h3 align="center">Data Engineer | Full Stack Developer | Cloud Engineer</h3>
 
 ## 🧠 About Me
 
