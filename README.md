@@ -1,10 +1,76 @@
-<h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Karthik</h1>
+<h3 align="center">🚀 AI Engineer | Founder & CEO @ Intellio AI | Full Stack Developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 About Me
+
+- 🔭 Currently building **AI-powered learning & analytics platforms**
+- 🚀 Founder & CEO of **Intellio AI**
+- 🤖 Working on: RAG Systems, AI Dashboards, Deepfake Detection
+- ☁️ Deploying AI APIs using AWS (SAM, S3, Glue, Athena, DynamoDB)
+- 📊 Building intelligent YouTube Analytics systems
+- 🧪 Exploring Generative AI, LLMs & Multimodal AI
+- 💬 Ask me about: `AI Systems`, `FastAPI`, `AWS`, `React`, `Streamlit`, `LLMs`
+- ⚡ Fun fact: I turn ideas into AI products
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
+  <a href="https://linkedin.com/in/your-link" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+### 🧠 AI / ML
+- HuggingFace Transformers  
+- RAG Architectures  
+- LLM Integration (Gemini / Claude / OpenAI APIs)  
+- OpenCV (Deepfake Detection)  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KarthikRommula&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarthikRommula&theme=github_dark" />
+</p>
+
+---
+
+## 🧩 Current Focus
+
+```python
+while True:
+    build()
+    learn()
+    deploy()
+    scale()
