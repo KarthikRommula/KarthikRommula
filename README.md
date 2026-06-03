@@ -1,13 +1,17 @@
-<h1 align="center">Hi, I'm Karthik</h1>
-<h3 align="center">Data Engineer | Full Stack Developer | Cloud Engineer</h3>
+<h1 align="center">Hi, I'm Karthik 👋</h1>
+<h3 align="center">Data Engineer · Full Stack Developer · Cloud Engineer</h3>
+
+<p align="center">I build AI-powered products — from data pipelines to deployed APIs and interactive dashboards.</p>
+
+---
 
 ## 🧠 About Me
 
 - 🔭 Currently building **AI-powered learning & analytics platforms**
-- 🤖 Working on: RAG Systems, AI Dashboards, Deepfake Detection
-- ☁️ Deploying AI APIs using AWS (SAM, S3, Glue, Athena, DynamoDB)
-- 🧪 Exploring Generative AI, LLMs & Multimodal AI
-- 💬 Ask me about: `AI Systems`, `FastAPI`, `AWS`, `React`, `Streamlit`, `LLMs`
+- 🤖 Working on **RAG systems**, **AI dashboards**, and **deepfake detection**
+- ☁️ Deploying AI APIs on **AWS** (SAM, S3, Glue, Athena, DynamoDB)
+- 🧪 Exploring **Generative AI**, **LLMs**, and **multimodal AI**
+- 💬 Ask me about: `AI Systems` · `FastAPI` · `AWS` · `React` · `Streamlit` · `LLMs`
 - ⚡ Fun fact: I turn ideas into AI products
 
 ---
@@ -15,14 +19,14 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/KarthikRommula" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://linkedin.com/in/KarthikRommula" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Tools
 
 ### 🚀 Languages
 <p>
@@ -45,10 +49,10 @@
 </p>
 
 ### 🧠 AI / ML
-- HuggingFace Transformers  
-- RAG Architectures  
-- LLM Integration (Gemini / Claude / OpenAI APIs)  
-- OpenCV (Deepfake Detection)  
+- Hugging Face Transformers
+- RAG architectures
+- LLM integration (Gemini / Claude / OpenAI APIs)
+- OpenCV (deepfake detection)
 
 ---
 
@@ -72,3 +76,4 @@ while True:
     learn()
     deploy()
     scale()
+```
