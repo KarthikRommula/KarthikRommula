@@ -1,10 +1,5 @@
-<h1 align="center">Hi, I'm Karthik 👋</h1>
-<h3 align="center">AI Engineer | Data Engineer</h3>
-
-<p align="center">I build AI-powered products — from data pipelines to deployed APIs and interactive dashboards.</p>
-
----
-
+<h1 align="center">Hi, I'm Karthik👋</h1>
+<h2 align="center">AI Engineer | Data Engineer</h2>
 ## 🧠 About Me
 
 Technology enthusiast passionate about building scalable, user-focused software solutions. Experienced in Python, AWS, GCP, DevOps, and Full-Stack Web Development. I enjoy solving real-world problems through technology, optimizing systems, and creating products that deliver meaningful user experiences. Always eager to learn, collaborate, and connect with fellow innovators.
