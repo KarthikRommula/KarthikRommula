@@ -7,12 +7,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building **AI-powered learning & analytics platforms**
-- 🤖 Working on **RAG systems**, **AI dashboards**, and **deepfake detection**
-- ☁️ Deploying AI APIs on **AWS** (SAM, S3, Glue, Athena, DynamoDB)
-- 🧪 Exploring **Generative AI**, **LLMs**, and **multimodal AI**
-- 💬 Ask me about: `AI Systems` · `FastAPI` · `AWS` · `React` · `Streamlit` · `LLMs`
-- ⚡ Fun fact: I turn ideas into AI products
+Technology enthusiast passionate about building scalable, user-focused software solutions. Experienced in Python, AWS, GCP, DevOps, and Full-Stack Web Development. I enjoy solving real-world problems through technology, optimizing systems, and creating products that deliver meaningful user experiences. Always eager to learn, collaborate, and connect with fellow innovators.
 
 ---
 
@@ -30,7 +25,7 @@
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🌐 Frontend
@@ -38,21 +33,24 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,aws,gcp" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
 </p>
 
 ### 🧠 AI / ML
+
+- Google Cloud AI Agents
+- LiveKit Voice Agents
+- n8n Workflow Automation
+- Apollo Outreach Workflows
+- LLM Integration (OpenAI, Claude, Gemini)
 - Hugging Face Transformers
-- RAG architectures
-- LLM integration (Gemini / Claude / OpenAI APIs)
-- OpenCV (deepfake detection)
 
 ---
 
