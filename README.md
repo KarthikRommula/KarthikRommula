@@ -18,36 +18,17 @@ Technology enthusiast passionate about building scalable, user-focused software 
 
 ## 🛠️ Tech & Tools
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
 ### 🧠 AI / ML
 
 - Agentic AI Development
 - Generative AI
-- User Provisioning
-- Deployment Management
-- Analyzation
-- AWS Lambda
-- YouTube API
-- Real-Time Transport Protocol (RTP)
-- Multi-Site Experience
-- Knowledge Graphs
-- Large-scale Data Processing
-- Possess strong analytical
-- Automated Machine Learning (AutoML)
-- Docker Products
-- Streams
-- Scriptwriting
-- Low Latency Trading
-- Non-profit Communications
+- Entrepreneurship Development
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Python (Programming Language)
+- Full-Stack Development
+- Leadership Development
+- Painting
 
 ---
 
