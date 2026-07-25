@@ -44,8 +44,8 @@ Technology enthusiast passionate about building scalable, user-focused software 
 
 ## 🏆 Achievements
 
-- **Techstars Startup Weekend AI Hyderabad 2026 ** — techstars_ (Feb 2026)
-- **Awarded Best Technical Club** — Kg Reddy college of Enginnering and Technology (Apr 2025)
+- **Techstars Startup Weekend AI Hyderabad 2026** — techstars_ (Feb 2026)
+- **Awarded Best Technical Club** — Kg Reddy college of Engineering and Technology (Apr 2025)
 
 ---
 
