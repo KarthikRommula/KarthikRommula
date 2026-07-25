@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=KARTHIK+ROMMULA;AI+Engineer+%7C+Data+Engineer;Data+Engineer+%40+Sparktics)](https://github.com/KarthikRommula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=KARTHIK+ROMMULA;AI+Engineer+%7C+Data+Engineer)](https://github.com/KarthikRommula)
 
 </div>
 
@@ -15,7 +15,7 @@ Technology enthusiast passionate about building scalable, user-focused software 
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/karthikrommula"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/karthikrommula"><img src="https://img.shields.io/badge/LinkedIn-karthikrommula-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/KarthikRommula"><img src="https://img.shields.io/badge/GitHub-KarthikRommula-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
@@ -26,14 +26,6 @@ Technology enthusiast passionate about building scalable, user-focused software 
 
 
 `Agentic AI Development` `Generative AI` `Entrepreneurship Development` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)` `Python (Programming Language)` `Full-Stack Development` `Leadership Development` `Painting`
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Saidso** | A grounding firewall for LLM agents — blocks fabricated tool arguments and spoken facts be… |
 
 ---
 
@@ -50,11 +42,10 @@ Technology enthusiast passionate about building scalable, user-focused software 
 
 ---
 
-## 🏅 Certifications
+## 🏆 Achievements
 
-- **Generative AI Tools** — NxtWave (Aug 2024)
-- **Internship on AI** — pantech solutions (Aug 2024) [↗](https://drive.google.com/file/d/1WHRZYG9gAXXT_L2Gu9bpEJZvJTotDnFg/preview)
-- **Python for Everybody** — Coursera (May 2023) [↗](https://coursera.org/verify/W8KFRLJNSK7S)
+- **Techstars Startup Weekend AI Hyderabad 2026 ** — techstars_ (Feb 2026)
+- **Awarded Best Technical Club** — Kg Reddy college of Enginnering and Technology (Apr 2025)
 
 ---
 
