@@ -17,8 +17,6 @@ Technology enthusiast passionate about building scalable, user-focused software 
 <p align="left">
   <a href="https://linkedin.com/in/karthikrommula"><img src="https://img.shields.io/badge/LinkedIn-karthikrommula-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/KarthikRommula"><img src="https://img.shields.io/badge/GitHub-KarthikRommula-181717?style=flat&logo=github&logoColor=white" /></a>
-  &nbsp;
   <a href="https://www.karthikrommula.online"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:officialkarthik1819@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -53,4 +51,4 @@ Technology enthusiast passionate about building scalable, user-focused software 
 
 ---
 
-<p align="center"><i>Auto-generated from LinkedIn via <a href="https://github.com/KarthikRommula/intellioai-sync">intellioai-sync</a></i></p>
+<p align="center"><i>Automatically synced by IntellioAI Sync</i></p>
