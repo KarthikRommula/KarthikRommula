@@ -18,6 +18,10 @@ Technology enthusiast passionate about building scalable, user-focused software 
   <a href="https://linkedin.com/in/karthikrommula"><img src="https://img.shields.io/badge/LinkedIn-karthikrommula-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/KarthikRommula"><img src="https://img.shields.io/badge/GitHub-KarthikRommula-181717?style=flat&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.karthikrommula.online"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:officialkarthik1819@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,7 +29,7 @@ Technology enthusiast passionate about building scalable, user-focused software 
 ## 🛠️ Skills
 
 
-`Agentic AI Development` `Generative AI` `Entrepreneurship Development` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)` `Python (Programming Language)` `Full-Stack Development` `Leadership Development` `Painting`
+`Agentic AI Development` `Generative AI` `Entrepreneurship Development` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)` `Python (Programming Language)` `Full-Stack Development` `Leadership Development`
 
 ---
 
