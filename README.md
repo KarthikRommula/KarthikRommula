@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=KARTHIK+ROMMULA;AI+Engineer+%7C+Data+Engineer)](https://github.com/KarthikRommula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=KARTHIK+ROMMULA;AI+Engineer+%7C+Data+Scientist)](https://github.com/KarthikRommula)
 
 </div>
 
@@ -17,7 +17,7 @@ Technology enthusiast passionate about building scalable, user-focused software 
 <p align="left">
   <a href="https://linkedin.com/in/karthikrommula"><img src="https://img.shields.io/badge/LinkedIn-karthikrommula-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.karthikrommula.online"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://karthikrommula.online"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:officialkarthik1819@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
