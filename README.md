@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=KARTHIK+ROMMULA;AI+Engineer+%7C+Data+Scientist)](https://github.com/KarthikRommula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Karthik+Rommula;AI+Engineer+%7C+Data+Scientist)](https://github.com/KarthikRommula)
 
 </div>
 
