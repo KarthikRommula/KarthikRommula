@@ -19,7 +19,7 @@ Technology enthusiast passionate about building scalable, user-focused software 
   &nbsp;
   <a href="https://karthikrommula.online"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:officialkarthik1819@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:karthikrommula.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
