@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Karthik+Rommula;Founding+AI+Engineer+at+EigenH+AI)](https://github.com/KarthikRommula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Karthik+Rommula;Founding+AI+Engineer)](https://github.com/KarthikRommula)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-Technology enthusiast passionate about building scalable, user-focused software solutions. Experienced in Python, AWS, GCP, DevOps, and Full-Stack Web Development. I enjoy solving real-world problems through technology, optimizing systems, and creating products that deliver meaningful user experiences. Always eager to learn, collaborate, and connect with fellow innovators.
+Technology enthusiast passionate about building scalable, user-focused software solutions. Experienced in Python, AWS, GCP, and Full-Stack Web Development. I enjoy solving real-world problems through technology, optimizing systems, and creating products that deliver meaningful user experiences. Always eager to learn, collaborate, and connect with fellow innovators.
 
 ---
 
