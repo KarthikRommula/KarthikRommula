@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Karthik+Rommula;Founding+AI+Engineer)](https://github.com/KarthikRommula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Karthik+Rommula;Founding+AI+%26+GTM+Engineer)](https://github.com/KarthikRommula)
 
 </div>
 
@@ -27,7 +27,7 @@ Technology enthusiast passionate about building scalable, user-focused software 
 ## 🛠️ Skills
 
 
-`Agentic AI Development` `Generative AI` `Entrepreneurship Development` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)` `Python (Programming Language)` `Full-Stack Development` `Leadership Development`
+`Go-to-Market Strategy` `Systems Design` `Marketing Automation` `Agentic AI Development` `Generative AI` `Entrepreneurship Development` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)` `Python (Programming Language)` `Full-Stack Development` `Leadership Development`
 
 ---
 
